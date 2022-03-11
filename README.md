@@ -10,10 +10,10 @@ Questions for Playtesters:
 
 1) Did you become bored at any point during the experience?
 
-2) Did you replay the experience multiple times to gain familiarity with the music?
+2) Did you replay the experience multiple times to gain familiarity with the music and try out new combinations of fireworks?
 
 3) Would you want additional types of fireworks available?
 
 4) Are there any specific types of fireworks you'd like available? (Describe in as much detail as possible, or provide a link to a video if available.)
 
-5) Do you have any thoughts (positive or negative) on the restrictions of the user interface? 
+5) Do you have any thoughts (positive or negative) on the restrictions of the user interface?
